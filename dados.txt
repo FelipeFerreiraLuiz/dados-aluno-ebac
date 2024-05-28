@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Luiz
+-Profissão: Autonomo
+-Cidade: Rio Negrinho SC
+-O que faz nas horas vaga: As vezes ando de bike
+-Feedback sobre o curso Qualidade de Software: o curso da ebac é muito bom tem conteudo bem específica sobre a profisao
+-Feedback sobre a plataforma de estudo da EBAC: acho bem ruim a parte do cabecalho que quando rola a pagina para baixo vem junto isso me atrapalha muito para estudar pois faz com que eu perca a concentracao nas aulas, se fosse possivel auterar esse detalhe eu ficaria muito grato.
 
 Obrigado!!!
 
